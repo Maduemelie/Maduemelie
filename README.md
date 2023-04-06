@@ -14,4 +14,5 @@ I'm a Software Engineer with a passion for learning, currently doing a diploma p
 - 📫 You can [view my resume](#) and contact me by emailing maduemelie@gmail.com
 
 ---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Maduemelie/github-readme-stats)
 
