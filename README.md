@@ -15,4 +15,5 @@ I'm a Software Engineer with a passion for learning, currently doing a diploma p
 
 ---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maduemelie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maduemelie)](https://github.com/anuraghazra/github-readme-stats)
 
